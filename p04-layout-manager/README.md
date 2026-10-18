@@ -264,8 +264,7 @@ h.Deklarasi Penggunaan AI
 
 
 
-Saya menggunakan ChatGPT sebagai alat bantu untuk memahami konsep layout manager, memperoleh panduan penggunaan NetBeans GUI Builder, serta membantu menyusun dokumentasi dan jawaban refleksi. Pembuatan dan pengaturan form dilakukan melalui NetBeans GUI Builder, kemudian hasilnya diperiksa kembali berdasarkan modul praktikum.
-
+Saya menggunakan ChatGPT sebagai alat bantu untuk memperoleh panduan penggunaan NetBeans GUI Builder, serta Pembuatan dan pengaturan form dilakukan melalui NetBeans GUI Builder.
 
 
 i.Kesimpulan
