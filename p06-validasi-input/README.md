@@ -546,5 +546,19 @@ Penggunaan validasi input membantu memastikan bahwa data yang dimasukkan penggun
 
 Project ini memberikan pemahaman mengenai pentingnya validasi input, regular expression, dan event handling dalam pengembangan aplikasi berbasis Java Swing.
 
+## Tabel Temuan Peer Review
+ 
+| No | Heuristik | Temuan | Skor 0-4 | Saran |
+|---|---|---|---|---|
+| 1 | Visibilitas status sistem |Untuk bagian nomer telepon tertera informasi nomer harus di awali 08 | 1 | Kiranya hapus saja ganti dengan informasi yang tidak di awali 08 karena nomer telepon bervariasi di setiap negaranya |
+| 2 | Kesesuaian dengan dunia nyata | - | 0 | - |
+| 3 | Kendali dan kebebasan pengguna | Nomer telpon harus diawali 08 | 1 | Untuk pengguna dengan nomer luar negeri akan mengalami kendala,jadi tinggal disesuaikan saja |
+| 4 | Konsistensi dan standar | - | 0 | - |
+| 5 | Pencegahan kesalahan | - | 0 | - |
+| 6 | Mengenali, bukan mengingat | - | 0 | - |
+| 7 | Fleksibilitas dan efisiensi | masalah pada temuan nomer handphone yang harus di awali 08 | 1 | Perbaikan harusnya bisa menerima berbagai kombinasi nomer handphone |
+| 8 | Desain estetis dan minimalis | - | 0 |- |
+| 9 | Membantu memperbaiki kesalahan | - | 0 | - |
+| 10 | Bantuan dan dokumentasi | - | 0 | - |
 
 
